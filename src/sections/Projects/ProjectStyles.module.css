@@ -2,6 +2,16 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+
+    .projectsContainer01 {
+      text-align: center;
+
+      .thirdTitle{
+        height: 1dvh;
+        min-height: 30px;
+        margin-top: 30px;
+      }
+    }
   }
 
   .projectsContainer {
@@ -124,6 +134,22 @@
       display: flex;
       flex-direction: column;
       text-align: center;
+
+      .projectsContainer01 {
+        text-align: center;
+
+        .secondTitle{
+          height: 1dvh;
+          min-height: 10px;
+          margin-top: 40px;
+        }
+  
+        .thirdTitle{
+          height: 1dvh;
+          min-height: 30px;
+          margin-top: 30px;
+        }
+      }
     }
   
     .projectsContainer {
@@ -216,7 +242,7 @@
       text-align: right;
       gap: 100px;
       /* justify-content: space-evenly; */
-      height: 70dvh;
+      height: 50dvh;
       min-height: 350px;
       margin: 0px 50px 0px 50px;
   
@@ -314,7 +340,7 @@
       text-align: right;
       gap: 100px;
       justify-content: space-evenly;
-      height: 70dvh;
+      height: 50dvh;
       min-height: 350px;
       margin: 0px 50px 0px 50px;
 
