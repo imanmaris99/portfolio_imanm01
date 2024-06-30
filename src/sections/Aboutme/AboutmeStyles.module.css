@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  height: 50dvh;
+  min-height: 500px;
+}
+
+.skillLink {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .skillList {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skillItem {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+  }
+  
+  .checkMark {
+    margin-right: 10px;
+  }
+  
+  .skillIcon {
+    margin-right: 10px;
+  }
+  
+  /* SkillsStyles.module.css */
+  .container {
+    padding: 20px;
+  }
+  
+  .sectionTitle {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .skillListContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  @media (width >= 1400px) {
+    .container {
+        margin-left: 100px;
+        margin-right: 100px;
+
+        .hero {
+            max-width: 500px;
+            width: 400px;
+            box-shadow: 0px 0px 24px 14px rgba(26, 157, 233, 0.45);
+          }
+
+    }
+  }

@@ -4,9 +4,10 @@
 Welcome to the portfolio of Iman Maris! This portfolio showcases my work, skills, and experience as a developer. Here you will find detailed information about my projects, professional background, and how to get in touch with me.
 
 ### Features
-- **Projects:** Detailed descriptions and links to my work
+- **About me:** Short descriptions about myself
 - **Skills:** List of technical and professional skills
 - **Experience:** Summary of my work history and achievements
+- **Projects:** Detailed descriptions and links to my work
 - **Contact:** Ways to connect with me
 
 ### Requirements
@@ -44,7 +45,7 @@ This portfolio is open for personal use and reference. Please contact me if you 
 ### Contact
 For any questions or to discuss potential opportunities, feel free to reach out:
 
-- **Email:** imanmaris@example.com
+- **Email:** imanmaris99@yahoo.com
 - **LinkedIn:** [Iman Maris](https://www.linkedin.com/in/imanmaris)
 - **GitHub:** [imanmaris](https://github.com/imanmaris)
 

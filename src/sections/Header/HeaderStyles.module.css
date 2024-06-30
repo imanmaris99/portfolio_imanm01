@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    min-height: 200px;
+  
+    .colorMode {
+        max-width: 100px;
+        border-radius: 100%;
+        margin-bottom: 70px;
+        box-shadow: 0px 0px 44px 24px rgba(234, 231, 48, 0.45);
+    }
+}
+
+  
+.colorMode:hover {
+    cursor: pointer;
+}
