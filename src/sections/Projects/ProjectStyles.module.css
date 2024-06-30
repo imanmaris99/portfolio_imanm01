@@ -204,6 +204,22 @@
   }
 
   @media (width >= 800px) {
+
+    .sectionTitle {
+      margin-bottom: 10px;
+    }
+        .secondTitle{
+          height: 5dvh;
+          min-height: 10px;
+          margin-bottom: 20px;
+        }
+  
+        .thirdTitle{
+          height: 5dvh;
+          min-height: 30px;
+          margin-bottom: 30px;
+        }
+    
     
     .projectsContainer {
       flex-direction: row-reverse;
@@ -211,7 +227,7 @@
       text-align: left;
       gap: 100px;
       justify-content: space-evenly;
-      height: 90dvh;
+      height: 100dvh;
       min-height: 350px;
       margin: 0px 50px 0px 50px;
   
@@ -242,7 +258,7 @@
       text-align: right;
       gap: 100px;
       /* justify-content: space-evenly; */
-      height: 50dvh;
+      height: 70dvh;
       min-height: 350px;
       margin: 0px 50px 0px 50px;
   

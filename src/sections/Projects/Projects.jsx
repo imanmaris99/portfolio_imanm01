@@ -22,7 +22,7 @@ function Projects() {
 
   return (
     <section id='projects' className={styles.container}>
-      <h1 className='sectionTitle'>Projects</h1>
+      <h1 className={styles.sectionTitle}>Projects</h1>
       <div className={styles.projectsContainer01}>
         <h2 className={styles.secondTitle}>RevoU-Final Project</h2>
         <div className={styles.projectsContainer}>
