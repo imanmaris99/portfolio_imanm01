@@ -34,6 +34,7 @@
   h1,
   h2,
   h3,
+  h4,
   p {
     color: var(--text-color);
     margin: 0;
@@ -42,6 +43,7 @@
   
   h2,
   h3,
+  h4,
   p {
     font-family: 'Roboto Mono', monospace;
   }
@@ -52,7 +54,8 @@
   }
   
   h2,
-  h3 {
+  h3,
+  h4 {
     font-size: 20px;
   }
   
@@ -82,7 +85,8 @@
       font-size: 40px;
     }
     h2,
-    h3 {
+    h3,
+    h4 {
       font-size: 24px;
     }
     p {

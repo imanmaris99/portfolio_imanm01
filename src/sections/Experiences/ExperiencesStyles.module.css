@@ -7,7 +7,7 @@
       max-width: 250px;
       align-self: center;
       background-color: var(--project-card-bg);
-      border-radius: 20px;
+      border-radius: 5px;
     }
   
     a {
@@ -36,4 +36,13 @@
       justify-content: space-evenly;
       padding: 0 30px;
     }
+  }
+
+  @media (width >= 1400px) {
+    .container {
+        margin-left: 100px;
+        margin-right: 100px;
+
+    }
+
   }
