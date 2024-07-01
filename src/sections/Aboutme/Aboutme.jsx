@@ -13,7 +13,7 @@ function Aboutme() {
   return (
     <section id="aboutme" className={styles.container}>
       <h1 className="sectionTitle">About me</h1>
-      <div className={styles.skillListContainer}>
+      {/* <div className={styles.skillListContainer}>
         <SkillCard 
           h3="Programming Languages"
           skills={[
@@ -23,7 +23,7 @@ function Aboutme() {
           checkMarkIcon={checkMarkIcon}
           link="https://example.com/programming-languages"
         />
-      </div>
+      </div> */}
     </section>
   );
 }
