@@ -1,6 +1,10 @@
 import styles from './ProjectStyles.module.css';
-import projectOne from '../../assets/number1.png';
-import projectTwo from '../../assets/number2.png';
+import projectOne from '../../assets/db-layout.png';
+import projectOnee from '../../assets/api-doc.png';
+
+import projectTwo from '../../assets/rempah-web.png';
+import projectTwoo from '../../assets/rempah-mobile.png';
+
 import projectThree from '../../assets/sfs-light.png';
 import projectThreee from '../../assets/sfs-dark.png';
 import rempah from '../../assets/daun.svg';
@@ -29,13 +33,13 @@ function Projects() {
           <div className={styles.colorModeContainer}>
             <img 
               className={styles.project}
-              src={projectThree} 
-              alt="profile picture of imanmaris"
+              src={projectOne} 
+              alt="picture of database layout relation"
             />
             <img 
               className={styles.project}
-              src={projectThree} 
-              alt="profile picture of imanmaris"
+              src={projectOnee} 
+              alt="picture of document API after publication the API url"
             />
           </div>
           <div className={styles.info}>
@@ -116,12 +120,12 @@ function Projects() {
             <img 
               className={styles.project}
               src={projectTwo} 
-              alt="profile picture of imanmaris"
+              alt="picture of website mode"
             />
             <img 
               className={styles.project}
-              src={projectOne} 
-              alt="profile picture of imanmaris"
+              src={projectTwoo} 
+              alt="picture of mobile mode"
             />
           </div>
 
