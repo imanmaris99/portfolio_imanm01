@@ -46,7 +46,7 @@ This portfolio is open for personal use and reference. Please contact me if you 
 For any questions or to discuss potential opportunities, feel free to reach out:
 
 - **Email:** imanmaris99@yahoo.com
-- **LinkedIn:** [Iman Maris](https://www.linkedin.com/in/imanmaris)
-- **GitHub:** [imanmaris](https://github.com/imanmaris)
+- **LinkedIn:** [Iman Maris](https://www.linkedin.com/in/iman-maris-profile)
+- **GitHub:** [imanmaris](https://github.com/imanmaris99)
 
 Thank you for visiting my portfolio!
